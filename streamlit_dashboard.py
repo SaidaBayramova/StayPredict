@@ -396,7 +396,7 @@ df = get_dataframe()
 
 if df is None:
     st.warning(
-        "⚠️ Data tapılmadı. Davam etmək üçün soldakı paneldən **hotel_bookings.csv** "
+        "⚠️ Data tapılmadı. Davam etmək üçün soldakı paneldən **hotel_bookings_cleaned.csv** "
         "faylını yükləyin, ya da faylı bu skriptlə eyni qovluğa qoyun."
     )
     st.stop()
