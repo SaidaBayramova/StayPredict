@@ -11,7 +11,7 @@ simulyasiyası) interaktiv, professional bir dashboard-a çevirir.
     streamlit run streamlit_dashboard.py
 
 Tələb olunan fayl:
-    hotel_bookings.csv — bu skriptlə eyni qovluqda olmalı, ya da tətbiq
+    hotel_bookings_cleaned.csv — bu skriptlə eyni qovluqda olmalı, ya da tətbiq
     daxilində yükləmə paneli vasitəsilə yüklənməlidir.
 ====================================================================================
 """
