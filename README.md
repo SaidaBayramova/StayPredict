@@ -54,3 +54,8 @@ Notebook planı 20 mərhələni izləyir: Business Understanding → Data Loadin
 |---|---|---|
 | Hotel Booking Demand Dataset | Kaggle (Antonio, Almeida & Nunes, 2019) | Cancellation Prediction, Revenue Analytics, Time Series Forecasting, Overbooking Simulation |
 
+### Live Demo
+
+https://staypredict-z3bhfqsjwxrsbgenl2unrr.streamlit.app
+
+
